@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Rapports>
+  <id>1716</id>
+  <date>2016-12-26T00:00:00</date>
+  <motif>Demande du médecin</motif>
+  <bilan>Très fixé sur les produits utilisés</bilan>
+  <idVisiteur>a17</idVisiteur>
+  <idMedecin>19</idMedecin>
+</Rapports>
